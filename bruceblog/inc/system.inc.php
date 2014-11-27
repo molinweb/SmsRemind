@@ -1,0 +1,11 @@
+<?php
+require("inc/config.inc.php");
+require("class/desplus.class.php");
+require("class/conndb.class.php");
+require("class/page.class.php");
+require("class/getfldvalue.class.php");
+require("class/mymemcached.class.php");
+require("inc/function.inc.php");
+require("inc/sms.inc.php");
+require("inc/link.inc.php");
+?>
